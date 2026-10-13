@@ -1,0 +1,9 @@
+colonne,valides_avant,valides_apres,taux_avant_%,taux_apres_%,gain_points
+age,9471,9453,97.14,96.95,-0.19
+annual_income_eur,9064,9398,92.96,96.39,3.43
+monthly_spend_eur,9234,9518,94.71,97.62,2.91
+tenure_months,9668,9721,99.16,99.7,0.54
+satisfaction_score,9411,9463,96.52,97.06,0.54
+support_tickets_12m,9701,9737,99.5,99.87,0.37
+signup_date,8968,9692,91.98,99.41,7.43
+last_login,8965,9534,91.95,97.78,5.83
